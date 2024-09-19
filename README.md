@@ -56,6 +56,7 @@ main()函数的返回值必须是整数类型，故只能用int定义
 ![](2024-09-19-09-34-41.png)
 
 ---
-更改小明的代码为XiaoMing's_code.cpp
-课后习题为assignment.c
+更改小明的代码为  XiaoMing's_code.cpp
+
+课后习题为  assignment.c
 
