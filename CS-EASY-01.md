@@ -33,7 +33,8 @@ main为c语言程序的入口点，即从main开始执行程序
 printf("Hello,world!");
 ```
 printf为函数名，print format，即格式化打印
-""内为字符串，即程序打印出来的东西
+""内为字符串
+""内即为程序打印出来的内容
 
 ---
 ```cpp
